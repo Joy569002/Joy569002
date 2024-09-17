@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food ecommerce(Django)**
 
-- 🌱 I’m currently learning **Django(Friend suggested:Ai/Ml efficient framework), ml and deep learning and flutter animation.**
+- 🌱 I’m currently learning **Django (for efficient AI/ML integration), ML, deep learning, and Flutter animation.**
 
 - 💬 Ask me about **Flutter, Firebase, Supabase.**
 
