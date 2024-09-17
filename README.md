@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tanjimjoy7@gmail.com**
 
-- ⚡ Fun fact **Coffee and meat lover. Sometime forget Road(I think I'm Zoro).**
+- ⚡ Fun fact **Coffee and meat lover. Sometime forget Road(I think I'm Zoro).Love to code without purpose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
