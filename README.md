@@ -35,6 +35,12 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
+<a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jonataslaw/getx/master/logo/GetX.png" alt="getx" width="40" height="40"/> </a>
+<a href="https://pub.dev/packages/riverpod" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rrousselGit/river_pod/master/logo/logo.png" alt="riverpod" width="40" height="40"/> </a>
+<a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rrousselGit/provider/master/logo/logo.png" alt="provider" width="40" height="40"/> </a>
+<a href="https://pub.dev/packages/sqflite" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tekartik/sqflite/master/doc/sqflite_logo.png" alt="sqflite" width="40" height="40"/> </a>
+<a href="https://pub.dev/packages/hive" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hivedb/hive/master/logo/hive_logo.png" alt="hive" width="40" height="40"/> </a>
+<a href="https://flutter.dev/docs/development/ui/animations" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter animation" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjim001&show_icons=true&locale=en&layout=compact" alt="tanjim001" /></p>
