@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python Backend Framework.FastApi and Django**
 
-- 💬 Ask me about **Flutter, Firebase, Supabase.**
+- 💬 Ask me about **Flutter.**
 
 - 📫 How to reach me **tanjimjoy7@gmail.com**
 
