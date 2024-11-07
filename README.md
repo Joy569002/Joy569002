@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lone-wolf-ai</h1>
+<h1 align="center">Hi 👋, I'm bot</h1>
 <h3 align="center">An AI enthusiast. Learning software engineering.</h3>
 
 - 🔭 I’m currently working on **FastApi projects.**
