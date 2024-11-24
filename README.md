@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm bot</h1>
 <h3 align="center">An AI enthusiast. Learning software engineering.</h3>
 
-- 🔭 I’m currently working on **FastApi projects.**
-
-- 🌱 I’m currently learning **FastApi and Django**
-
-- 🤝 I’m looking for help with **Django**
-
 - 💬 Ask me about **Flutter.**
 
 - 📫 How to reach me **tanjimjoy7@gmail.com**
@@ -31,4 +25,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jetpackcompose/jetpackcompose-icon.svg" alt="jetpackcompose" width="40" height="40"/> </a>
 </p>
