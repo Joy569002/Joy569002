@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mecha</h1>
+<h1 align="center">Hi 👋, I'm meca</h1>
 <h3 align="center">An AI enthusiast. Learning software engineering.</h3>
 
 - 💬 Ask me about **Flutter.**
