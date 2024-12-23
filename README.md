@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm meca</h1>
+<h1 align="center">Hi 👋, I'm Tanjim Ahmed/h1>
 <h3 align="center">An AI enthusiast. Learning software engineering.</h3>
 
 - 💬 Ask me about **Flutter.**
 
-- 📫 How to reach me **tanjimjoy7@gmail.com**
-
-- ⚡ Fun fact **Coffee and meat lover. Sometime forget Goals(I think I'm zoro).**
+- 📫 How to reach me **tanjimahmed327@gmail.com**
 
 <p align="left">
 </p>
