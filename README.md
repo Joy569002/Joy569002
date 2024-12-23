@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanjim Ahmed/h1>
+<h1 align="center">Hi 👋, I'm Tanjim Ahmed</h1>
 <h3 align="center">An AI enthusiast. Learning software engineering.</h3>
 
 - 💬 Ask me about **Flutter.**
