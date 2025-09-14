@@ -91,13 +91,6 @@ I’m **passionate about technology**, particularly **machine learning and cyber
     <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/c917ff73e57d5f3787e07bb6d710896d.svg" alt="Power BI" width="40" height="40"/>
   </a>
 
-  <!-- Cybersecurity -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  </a>
-  <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OWASP.svg" alt="OWASP" width="40" height="40"/>
-  </a>
 </p>
 --
 
@@ -121,10 +114,7 @@ I’m deeply passionate about **machine learning and cybersecurity** and am curr
 - **Natural Language Processing (NLP):** Working on text classification and sentiment analysis.
 - **Computer Vision:** Exploring image recognition and object detection.
 
-### **Cybersecurity**
-- **Ethical Hacking:** Learning penetration testing and vulnerability assessment.
-- **Web Security:** Studying OWASP Top 10 vulnerabilities and secure coding practices.
-- **Kali Linux:** Practicing with tools like Metasploit, Nmap, and Burp Suite.
+
 
 ---
 
