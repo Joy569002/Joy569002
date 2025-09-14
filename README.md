@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanjim Ahmed</h1>
 <h3 align="center">A Passionate Tech Enthusiast | AI & Machine Learning Learner | Cybersecurity Enthusiast |  Software Engineering Learner </h3>
 
-<p align="center">
-  <a href="mailto:tanjimahmed327@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tanjimahmed327%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
----
 
 ## **💡 About Me**
 I’m **passionate about technology**, particularly **machine learning and cybersecurity**. My am exploring  **AI, software engineering, data analytics, and ethical hacking**. I enjoy **building projects, learning new tools, and contributing to open-source communities**.
