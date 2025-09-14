@@ -11,7 +11,6 @@ I’m **passionate about technology**, particularly **machine learning and cyber
 
 ---
 
-## **🛠️ Languages and Tools**
 
 ## **🛠️ Languages and Tools**
 
