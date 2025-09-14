@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanjim Ahmed</h1>
 <h3 align="center">An AI enthusiast. Learning software engineering.</h3>
 
-- 💬 Ask me about **Flutter.**
+- 💬 Lets talk about tech.
 
 - 📫 How to reach me **tanjimahmed327@gmail.com**
 
