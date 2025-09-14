@@ -1,3 +1,28 @@
+<h1 align="center">Hi 👋, I'm Tanjim Ahmed</h1>
+<h3 align="center">A Passionate Tech Enthusiast | AI & Machine Learning Learner | Cybersecurity Enthusiast |  Software Engineering Learner </h3>
+
+<p align="center">
+  <a href="mailto:tanjimahmed327@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tanjimahmed327%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+## **💡 About Me**
+I’m **passionate about technology**, particularly **machine learning and cybersecurity**. My am exploring  **AI, software engineering, data analytics, and ethical hacking**. I enjoy **building projects, learning new tools, and contributing to open-source communities**.
+
+- 🌍 I’m based in **Bangladesh**.
+- 💬 Let’s talk about **AI, cybersecurity, software development, or anything tech-related**!
+- 🔭 I’m currently learning **machine learning (TensorFlow, PyTorch) and cybersecurity (ethical hacking, penetration testing)**.
+
+---
+
+## **🛠️ Languages and Tools**
+
 ## **🛠️ Languages and Tools**
 
 <p align="left">
@@ -62,8 +87,8 @@
   </a>
 
   <!-- Data Analytics -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Power_BI_Logo.svg/1200px-Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
+  <a href="[https://powerbi.microsoft.com/](https://ibb.co.com/VcTK9xSX)" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/c917ff73e57d5f3787e07bb6d710896d.svg" alt="Power BI" width="40" height="40"/>
   </a>
 
   <!-- Cybersecurity -->
@@ -74,3 +99,35 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OWASP.svg" alt="OWASP" width="40" height="40"/>
   </a>
 </p>
+--
+
+## **📊 GitHub Stats**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjimahmed327&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjimahmed327&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimahmed327&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## **🌟 What I'm Currently Learning**
+I’m deeply passionate about **machine learning and cybersecurity** and am currently focusing on:
+
+### **Machine Learning**
+- **TensorFlow & PyTorch:** Building and training neural networks.
+- **Natural Language Processing (NLP):** Working on text classification and sentiment analysis.
+- **Computer Vision:** Exploring image recognition and object detection.
+
+### **Cybersecurity**
+- **Ethical Hacking:** Learning penetration testing and vulnerability assessment.
+- **Web Security:** Studying OWASP Top 10 vulnerabilities and secure coding practices.
+- **Kali Linux:** Practicing with tools like Metasploit, Nmap, and Burp Suite.
+
+---
+
+## **⚡ Fun Fact**
+I love **sleeping and eating** in my free time. Tech isn’t just my profession—it’s my passion!
+---
