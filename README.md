@@ -23,6 +23,8 @@ I’m **passionate about technology**, particularly **machine learning and cyber
 
 ## **🛠️ Languages and Tools**
 
+## **🛠️ Languages and Tools**
+
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -81,31 +83,23 @@ I’m **passionate about technology**, particularly **machine learning and cyber
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-
-  <!-- Cloud & Tools -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
   </a>
 
   <!-- Data Analytics -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/c917ff73e57d5f3787e07bb6d710896d.svg" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/microsoft_sql_server/c6d163823e4d3d6d164785a8db9dcd0f.svg" alt="SSMS" width="40" height="40"/>
-  </a>
 
   <!-- Cybersecurity -->
-  <img src="https://github.com/tanjimahmed327/tanjimahmed327/blob/main/icons/ethical-hacking.svg" alt="Ethical Hacking" width="40" height="40"/>
-  <img src="https://github.com/tanjimahmed327/tanjimahmed327/blob/main/icons/web-security.svg" alt="Web Security" width="40" height="40"/>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
+  <a href="https://owasp.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OWASP.svg" alt="OWASP" width="40" height="40"/>
+  </a>
 </p>
-
----
+--
 
 ## **📊 GitHub Stats**
 <p align="center">
