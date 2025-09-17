@@ -98,5 +98,5 @@ I’m deeply passionate about **machine learning and cybersecurity** and am curr
 ---
 
 ## **⚡ Fun Fact**
-I love **sleeping and eating** in my free time. Tech isn’t just my profession—it’s my passion!
+I love **sleeping and eating** in my free time. Tech isn’t just my feild of my study it’s my passion!
 ---
