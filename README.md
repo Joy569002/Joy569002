@@ -3,7 +3,7 @@
 
 
 ## **💡 About Me**
-I’m **passionate about technology**, particularly **machine learning and cybersecurity**. My am exploring  **AI, software engineering, data analytics, and ethical hacking**. I enjoy **building projects, learning new tools, and contributing to open-source communities**.
+I’m **passionate about technology**, particularly **machine learning and cybersecurity**. I am exploring  **AI, software engineering, data analytics, and ethical hacking**. I enjoy **building projects, learning new tools, and contributing to open-source communities**.
 
 - 🌍 I’m based in **Bangladesh**.
 - 💬 Let’s talk about **AI, cybersecurity, software development, or anything tech-related**!
