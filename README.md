@@ -76,8 +76,9 @@ I’m **passionate about technology**, particularly **machine learning and cyber
   </a>
 
   <!-- Data Analytics -->
-  <a href="[https:[//powerbi.microsoft.com/](https://ibb.co.com/VcTK9xSX)](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)" target="_blank" rel="noreferrer">
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/c917ff73e57d5f3787e07bb6d710896d.svg" alt="Power BI" width="40" height="40"/>
+</a>
   </a>
 
 </p>
