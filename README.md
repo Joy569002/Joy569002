@@ -74,15 +74,10 @@ I’m **passionate about technology**, particularly **machine learning and cyber
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
   </a>
-    <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server Management Studio 2022 -->
-  <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/331760/sql-server.svg" alt="SQL Server Management Studio" width="40" height="40"/>
-  </a>
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png" alt="Firebase" width="60" height="60"/>
+</a>
 
   <!-- Data Analytics -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
