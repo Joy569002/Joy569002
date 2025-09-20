@@ -7,7 +7,7 @@ I’m **passionate about technology**, particularly **machine learning and cyber
 
 - 🌍 I’m based in **Bangladesh**.
 - 💬 Let’s talk about **AI, cybersecurity, software development, or anything tech-related**!
-- 🔭 I’m currently learning **machine learning  and cybersecurity related thing **.
+- 🔭 I’m currently learning machine learning  and cybersecurity related thing .
 
 ---
 
