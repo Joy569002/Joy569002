@@ -87,7 +87,7 @@ I’m **passionate about technology**, particularly **machine learning and cyber
 
 
 ## **🌟 What I'm Currently Learning**
-I’m deeply passionate about **machine learning and cybersecurity** and am currently focusing on:
+I’m currently focusing on:
 
 ### **Machine Learning**
 - **TensorFlow & PyTorch:** Building and training neural networks.
