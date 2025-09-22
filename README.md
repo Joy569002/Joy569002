@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanjim Ahmed</h1>
-<h3 align="center">A Passionate Tech Enthusiast | AI & Machine Learning Learner | Cybersecurity Enthusiast | Bsc in Software Engineering  </h3>
+<h3 align="center">A Passionate Tech Enthusiast | Bsc in Software Engineering  </h3>
 
 
 ## **💡 About Me**
-I’m **passionate about technology**, particularly **machine learning and cybersecurity**. I am exploring  **AI, software engineering, data analytics, and ethical hacking**. I enjoy **building projects, learning new tools, and contributing to open-source communities**.
+I’m **passionate about technology**. I am exploring  **AI, software engineering, data analytics, and ethical hacking**. I enjoy **building projects, learning new tools, and contributing to open-source communities**.
 
 - 🌍 I’m based in **Bangladesh**.
-- 💬 Let’s talk about **AI, cybersecurity, software development, or anything tech-related**!
 - 🔭 I’m currently learning machine learning  and cybersecurity related thing .
 
 ---
