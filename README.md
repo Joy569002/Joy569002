@@ -89,12 +89,14 @@ I’m **passionate about technology**, particularly **machine learning and cyber
 ## **🌟 What I'm Currently Learning**
 I’m currently focusing on:
 
-### **Machine Learning**
-- **TensorFlow & PyTorch:** Building and training neural networks.
-- **Natural Language Processing (NLP):** Working on text classification and sentiment analysis.
-- **Computer Vision:** Exploring image recognition and object detection.
+## 🚀 Machine Learning :
 
+I'm actively deepening my understanding of machine learning through a mix of theory and hands-on practice:
 
+- 📚 Reading multiple books and watching curated courses to build a strong conceptual foundation  
+- 🧠 Exploring and applying the **scikit-learn** library for real-world ML workflows  
+- 🐍 Implementing core machine learning algorithms using **Python**, with a focus on reproducibility and clarity  
+- 🗂️ Maintaining a structured, annotated collection of notes for quick reference and long-term retention  
 
 ---
 
