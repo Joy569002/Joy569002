@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanjim Ahmed</h1>
-<h3 align="center">A Passionate Tech Enthusiast | Bsc in Software Engineering  </h3>
+<h3 align="center">A Passionate Tech Enthusiast | Bsc in Software Engineering </h3>
 
 
 ## **💡 About Me**
