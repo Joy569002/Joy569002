@@ -10,14 +10,12 @@ I’m passionate about technology and actively exploring:
 - Natural Language Processing (NLP)  
 - Software Engineering  
 - Cybersecurity 🔐  
-
 My main target is to master software engineering techniques alongside advanced ML, AI, and cybersecurity.
 
 - 🌍 Based in **Bangladesh**  
 - 🔭 Currently diving deep into **Machine Learning** and **Cybersecurity**  
 
 ---
-
 ## 🧠 What I'm Currently Learning
 
 ### 🚀 Machine Learning  
@@ -25,14 +23,6 @@ My main target is to master software engineering techniques alongside advanced M
 - Applying **scikit-learn** for real-world workflows  
 - Implementing core algorithms in **Python** with reproducibility and clarity  
 - Maintaining a structured, annotated notes collection  
-
-### 🔐 Cybersecurity  
-- Studying ethical hacking fundamentals  
-- Exploring penetration-testing tools and techniques  
-- Learning network security and system hardening practices  
-- Preparing for CompTIA Security+ certification  
-
----
 
 ## 🔗 Competitive Profiles
 
