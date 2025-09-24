@@ -1,34 +1,48 @@
-<h1 align="center">Hi 👋, I'm Tanjim Ahmed(on Auto pilot)</h1>
+<h1 align="center">Hi 👋, I'm Tanjim Ahmed (on Autopilot)</h1>
 <h3 align="center">A Passionate Tech Enthusiast | BSc in Software Engineering 🎓</h3>
 
-## 💡 About Me  
-I’m **passionate about technology** and actively exploring **Machine Learning (ML), Artificial Intelligence (AI), Software Engineering**, and **Cybersecurity** 🔐.  
-I enjoy **building projects**, **learning new tools**, **gaining knowledge**, and **contributing to open-source communities** 🌱.
+## 💡 About Me
+
+I’m passionate about technology and actively exploring:  
+- Machine Learning (ML)  
+- Artificial Intelligence (AI)  
+- Deep Learning (DL)  
+- Natural Language Processing (NLP)  
+- Software Engineering  
+- Cybersecurity 🔐  
+
+My main target is to master software engineering techniques alongside advanced ML, AI, and cybersecurity.
 
 - 🌍 Based in **Bangladesh**  
-- 🔭 Currently diving deep into **Machine Learning**  
+- 🔭 Currently diving deep into **Machine Learning** and **Cybersecurity**  
 
 ---
 
 ## 🧠 What I'm Currently Learning
 
 ### 🚀 Machine Learning  
-I'm actively deepening my understanding of machine learning through a mix of theory and hands-on practice:
+- Reading books and courses to build a strong conceptual foundation  
+- Applying **scikit-learn** for real-world workflows  
+- Implementing core algorithms in **Python** with reproducibility and clarity  
+- Maintaining a structured, annotated notes collection  
 
-- 📚 Reading multiple books and watching curated courses to build a strong conceptual foundation  
-- 🧠 Exploring and applying the **scikit-learn** library for real-world ML workflows  
-- 🐍 Implementing core machine learning algorithms using **Python**, with a focus on reproducibility and clarity  
-- 🗂️ Maintaining a structured, annotated collection of notes for quick reference and long-term retention  
+### 🔐 Cybersecurity  
+- Studying ethical hacking fundamentals  
+- Exploring penetration-testing tools and techniques  
+- Learning network security and system hardening practices  
+- Preparing for CompTIA Security+ certification  
 
 ---
+
 ## 🔗 Competitive Profiles
 
-- 🧮 [Codeforces](https://codeforces.com/profile/paladinsghost)
-- 🧠 [LeetCode](https://leetcode.com/tanjim001)
-- 📊 [Kaggle](https://www.kaggle.com/syedtanjimahmed)
-
-## ⚡ Fun Fact  
-I love **sleeping 😴 and eating 🍽️** in my free time.  
-Tech isn’t just my field of study—it’s my **passion**! 💻❤️
+- 🧮 [Codeforces](https://codeforces.com/profile/paladinsghost)  
+- 🧠 [LeetCode](https://leetcode.com/tanjim001)  
+- 📊 [Kaggle](https://www.kaggle.com/syedtanjimahmed)  
 
 ---
+
+## ⚡ Fun Fact
+
+I love **sleeping** 😴 and **eating** 🍽️ in my free time.  
+Tech isn’t just my field of study—it’s my **passion**! 💻❤️
