@@ -11,7 +11,7 @@ I’m passionate about technology and actively exploring:
 - Software Engineering  
 - Cybersecurity 🔐
   
-My main target is to master software engineering techniques alongside advanced ML, AI, and cybersecurity.
+My main target is to master software engineering techniques alongside advanced ML and AI.
 
 - 🌍 Based in **Bangladesh**  
 - 🔭 Currently diving deep into **Machine Learning** and **Cybersecurity**  
