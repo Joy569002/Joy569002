@@ -14,7 +14,7 @@ I’m passionate about technology and actively exploring:
 My main target is to master software engineering techniques alongside advanced ML and AI.
 
 - 🌍 Based in **Bangladesh**  
-- 🔭 Currently diving deep into **Machine Learning** and **Cybersecurity**  
+- 🔭 Currently diving deep into **Machine Learning**.
 
 ---
 ## 🧠 What I'm Currently Learning
