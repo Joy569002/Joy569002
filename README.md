@@ -24,7 +24,7 @@ I'm actively deepening my understanding of machine learning through a mix of the
 ## 🔗 Competitive Profiles
 
 - 🧮 [Codeforces](https://codeforces.com/profile/paladinsghost)
-- 🧠 [LeetCode]([https://leetcode.com/your_username](https://leetcode.com/u/tanjim001/))
+- 🧠 [LeetCode]([https://leetcode.com/tanjim001])
 - 📊 [Kaggle](https://www.kaggle.com/syedtanjimahmed)
 
 ## ⚡ Fun Fact  
