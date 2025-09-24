@@ -21,7 +21,11 @@ I'm actively deepening my understanding of machine learning through a mix of the
 - 🗂️ Maintaining a structured, annotated collection of notes for quick reference and long-term retention  
 
 ---
+## 🔗 Competitive Profiles
 
+- 🧮 [Codeforces](https://codeforces.com/profile/paladinsghost)
+- 🧠 [LeetCode]([https://leetcode.com/your_username](https://leetcode.com/u/tanjim001/))
+- 📊 [Kaggle](https://www.kaggle.com/syedtanjimahmed)
 
 ## ⚡ Fun Fact  
 I love **sleeping 😴 and eating 🍽️** in my free time.  
