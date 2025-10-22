@@ -9,7 +9,7 @@ I’m passionate about technology and actively exploring:
 - Deep Learning (DL)  
 - Natural Language Processing (NLP)  
 - Software Engineering  
-- Cybersecurity 🔐
+
   
 My main target is to master software engineering techniques alongside advanced ML and AI.
 
@@ -29,7 +29,7 @@ My main target is to master software engineering techniques alongside advanced M
 
 - 🧮 [Codeforces](https://codeforces.com/profile/paladinsghost)  
 - 🧠 [LeetCode](https://leetcode.com/tanjim001)  
-- 📊 [Kaggle](https://www.kaggle.com/syedtanjimahmed)  
+
 
 ---
 
