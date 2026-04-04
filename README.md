@@ -11,7 +11,7 @@ I’m passionate about technology and actively exploring:
 - Software Engineering  
 
   
-My main target is to master software engineering techniques alongside advanced ML and AI.
+My main target is to master software engineering techniques alongside advanced ML and AI(in 2026).
 
 - 🌍 Based in **Bangladesh**  
 - 🔭 Currently diving deep into **Machine Learning**.
